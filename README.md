@@ -11,18 +11,16 @@
 
 ---
 
-## Projects
+## Featured Project
 
-| Project | Description | Live |
-|---------|-------------|------|
-| [**cyberdiscounts**](https://github.com/gnaixnaij/cyberdiscounts) | Verified discount programs for SANS, ISC² & OffSec certs | [Live](https://gnaixnaij.github.io/cyberdiscounts/) |
-| [**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) | Curated pentesting commands & tools reference | [Live](https://gnaixnaij.github.io/cyber-cheatsheet/) |
-| [**jsonfmt**](https://github.com/gnaixnaij/jsonfmt) | CLI JSON formatter & validator in Python | — |
+[**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) — 120+ pentesting commands across 13 sections. Dark/light theme, search, difficulty badges. Used by CTF players and penetration testers.
+
+➡️ [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet/)
 
 ## Skills
 
 - **Languages:** Python, Bash, HTML/CSS, JavaScript
-- **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Hashcat, Gobuster
+- **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Hashcat, Gobuster, Impacket
 - **Platforms:** Kali Linux, Windows, GitHub Pages
 - **Certifications:** CDSA (active), TryHackMe (active)
 
@@ -30,3 +28,7 @@
 
 - GitHub: [@gnaixnaij](https://github.com/gnaixnaij)
 - Email: gnaixnaij@users.noreply.github.com
+
+---
+
+*Available for freelance security work. Open to opportunities.*
