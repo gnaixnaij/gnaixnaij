@@ -13,7 +13,7 @@
 
 ## Featured Project
 
-[**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) — 120+ pentesting commands across 13 sections. Dark/light theme, search, difficulty badges. Used by CTF players and penetration testers.
+[**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) — 120+ pentesting commands across 13 sections. Data-driven architecture (JS-generated DOM), dark/light theme, live search, expand/collapse, difficulty badges, keyboard shortcuts, syntax highlighting. Used by CTF players and penetration testers.
 
 ➡️ [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet/)
 
