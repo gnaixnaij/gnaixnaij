@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm gnaixnaij</h1>
 
 <p align="center">
-  <b>Cybersecurity · Python · Web Security</b>
+  <b>Security Research · CTF · Open Source</b>
 </p>
 
 ---
