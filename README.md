@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-Penetration%20Tester-00d4ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Security%20Researcher-22c55e?style=for-the-badge" />
 </div>
 
