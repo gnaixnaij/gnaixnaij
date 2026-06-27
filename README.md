@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-Security%20Researcher-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge" />
 </div>
 
 <h1 align="center">Hi, I'm gnaixnaij</h1>
