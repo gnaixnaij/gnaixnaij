@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge" />
+  <a href="https://ko-fi.com/gnaixnaij"><img src="https://img.shields.io/badge/Sponsor-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </div>
 
 <h1 align="center">Hi, I'm gnaixnaij</h1>
@@ -10,11 +11,19 @@
 
 ---
 
-## Featured Project
+## Projects
 
-[**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) — 120+ pentesting commands across 13 sections. Data-driven architecture (JS-generated DOM), dark/light theme, live search, expand/collapse, difficulty badges, keyboard shortcuts, syntax highlighting. Used by CTF players and penetration testers.
-
+### 🔍 [cyber-cheatsheet](https://github.com/gnaixnaij/cyber-cheatsheet)
+800+ pentesting commands across 43 sections. Dark/light theme, live search, difficulty badges, keyboard shortcuts.
 ➡️ [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet/)
+
+### 🧪 [deobfuscator](https://github.com/gnaixnaij/deobfuscator)
+AI-powered deobfuscator for PowerShell, VBA, and JavaScript. Paste a script, get clean readable output.
+➡️ [Web App](https://deobfuscator-web.onrender.com/)
+
+### 📘 [malware-decode-lab](https://github.com/gnaixnaij/malware-decode-lab)
+Step-by-step malware deobfuscation tutorials with real-style samples.
+➡️ [Live Site](https://gnaixnaij.github.io/malware-decode-lab/)
 
 ## Skills
 
