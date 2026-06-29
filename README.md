@@ -13,6 +13,10 @@
 
 ## Projects
 
+### 🗺️ [cybersec-roadmap](https://github.com/gnaixnaij/cybersec-roadmap)
+Free structured learning path for SOC, Pentest, Malware Analysis, and Security Engineering. Progress tracking included.
+➡️ [Live Site](https://gnaixnaij.github.io/cybersec-roadmap/)
+
 ### 🔍 [cyber-cheatsheet](https://github.com/gnaixnaij/cyber-cheatsheet)
 800+ pentesting commands across 43 sections. Dark/light theme, live search, difficulty badges, keyboard shortcuts.
 ➡️ [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet/)
