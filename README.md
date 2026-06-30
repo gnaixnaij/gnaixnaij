@@ -21,6 +21,8 @@
   <a href="https://github.com/gnaixnaij/deobfuscator/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/deobfuscator/lint.yml?branch=main&label=deobfuscator&logo=python&style=flat-square"></a>
   <a href="https://github.com/gnaixnaij/soc-triage/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/soc-triage/lint.yml?branch=main&label=soc-triage&logo=python&style=flat-square"></a>
   <a href="https://github.com/gnaixnaij/nmap-automator/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/nmap-automator/lint.yml?branch=main&label=nmap-automator&logo=python&style=flat-square"></a>
+  <a href="https://github.com/gnaixnaij/cybersec-roadmap/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/cybersec-roadmap/lint.yml?branch=main&label=roadmap&logo=html5&style=flat-square"></a>
+  <a href="https://github.com/gnaixnaij/cyber-cheatsheet/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/cyber-cheatsheet/lint.yml?branch=main&label=cheatsheet&logo=javascript&style=flat-square"></a>
 </p>
 
 ---
@@ -31,9 +33,9 @@
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. Static analysis + optional LLM. | Python · AI | [Web App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) |
-| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans with smart defaults — quick discovery, service detection, full audit, vuln scan. | Python | [Repo](https://github.com/gnaixnaij/nmap-automator) |
-| [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit for incident response. Collects system state for compromise assessment. | Python | [Repo](https://github.com/gnaixnaij/soc-triage) |
+| [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. | Python · AI | [App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) · [v1.0](https://github.com/gnaixnaij/deobfuscator/releases) |
+| [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — collect system state for IR assessment. JSON output, archive support. | Python | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.0](https://github.com/gnaixnaij/soc-triage/releases) |
+| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans with 4 modes + multiple output formats (nmap, XML, grepable). | Python | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
 
 ### Education & Reference
 
@@ -90,4 +92,7 @@ Contributions, issues, and feature requests are welcome. If you find any of my w
   <br>
   <img src="https://img.shields.io/badge/maintained-yes-22c55e?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/gnaixnaij/gnaixnaij?style=flat-square&label=updated">
+  <br><br>
+  <img src="https://img.shields.io/github/stars/gnaixnaij?style=social&label=Total%20Stars">
+  <img src="https://img.shields.io/github/followers/gnaixnaij?style=social&label=Followers">
 </p>
