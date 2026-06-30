@@ -35,6 +35,7 @@
 |---------|-------------|-------|-------|
 | [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) · [v1.0](https://github.com/gnaixnaij/deobfuscator/releases) |
 | [**deobfuscator-web**](https://github.com/gnaixnaij/deobfuscator-web) | Web UI — paste script, get IOCs + Sigma/YARA rules. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator-web?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Docker](https://github.com/gnaixnaij/deobfuscator-web) |
+| [**guardian**](https://github.com/gnaixnaij/guardian) | Free lightweight EDR — process, file, network monitoring with web dashboard. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/guardian?style=flat-square) | [Repo](https://github.com/gnaixnaij/guardian) |
 | [**github-secret-scanner**](https://github.com/gnaixnaij/github-secret-scanner) | Scan any public repo for leaked secrets, tokens, and keys. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/github-secret-scanner?style=flat-square) | [Repo](https://github.com/gnaixnaij/github-secret-scanner) |
 | [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — system state collection, JSON output, watch mode. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/soc-triage?style=flat-square) | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.1](https://github.com/gnaixnaij/soc-triage/releases) |
 | [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans — 4 modes, XML/Grepable output. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/nmap-automator?style=flat-square) | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
@@ -96,6 +97,7 @@ Contributions, issues, and feature requests are welcome. If you find any of my w
 
 | Date | Project | Event |
 |------|---------|-------|
+| 2026-06-30 | guardian | 🚀 New: free lightweight EDR for small teams |
 | 2026-06-30 | github-secret-scanner | 🚀 New tool: scan public repos for leaked secrets |
 | 2026-06-30 | password-explainer | 🚀 New tool: password strength with attack timelines |
 | 2026-06-30 | cybersec-roadmap | 🚀 New: free cybersecurity learning path |
