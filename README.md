@@ -63,7 +63,7 @@
 
 ## Expertise
 
-```
+```text
 Languages   Python · Bash · JavaScript · HTML/CSS
 Platforms   Kali Linux · Windows · GitHub Pages · Render
 Tools       Nmap · Metasploit · Burp Suite · Wireshark · Hashcat · Impacket
