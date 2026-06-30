@@ -31,20 +31,21 @@
 
 ### Security Tools
 
-| Project | Description | Stack | Links |
+| Project | Description | Stars | Links |
 |---------|-------------|-------|-------|
-| [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. | Python · AI | [App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) · [v1.0](https://github.com/gnaixnaij/deobfuscator/releases) |
-| [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — collect system state for IR assessment. JSON output, archive support. | Python | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.0](https://github.com/gnaixnaij/soc-triage/releases) |
-| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans with 4 modes + multiple output formats (nmap, XML, grepable). | Python | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
+| [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) · [v1.0](https://github.com/gnaixnaij/deobfuscator/releases) |
+| [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — system state collection, JSON output, watch mode. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/soc-triage?style=flat-square) | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.1](https://github.com/gnaixnaij/soc-triage/releases) |
+| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans — 4 modes, XML/Grepable output, extra args. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/nmap-automator?style=flat-square) | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
+| [**deobfuscator-web**](https://github.com/gnaixnaij/deobfuscator-web) | Web UI for deobfuscator — paste script, get IOCs + Sigma/YARA rules. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator-web?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Docker](https://github.com/gnaixnaij/deobfuscator-web) |
 
 ### Education & Reference
 
-| Project | Description | Stack | Links |
+| Project | Description | Stars | Links |
 |---------|-------------|-------|-------|
-| [**cybersec-roadmap**](https://github.com/gnaixnaij/cybersec-roadmap) | Structured learning path for SOC, Pentest, Malware Analysis, and Security Engineering. | HTML · CSS | [Live Site](https://gnaixnaij.github.io/cybersec-roadmap) · [Repo](https://github.com/gnaixnaij/cybersec-roadmap) |
-| [**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) | 800+ pentesting commands across 43 sections. Dark/light theme, live search, keyboard shortcuts. | HTML · JS | [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet) · [Repo](https://github.com/gnaixnaij/cyber-cheatsheet) |
-| [**malware-decode-lab**](https://github.com/gnaixnaij/malware-decode-lab) | Step-by-step malware deobfuscation tutorials with real-style samples. | HTML | [Live Site](https://gnaixnaij.github.io/malware-decode-lab) · [Repo](https://github.com/gnaixnaij/malware-decode-lab) |
-| [**ctf-writeups**](https://github.com/gnaixnaij/ctf-writeups) | CTF challenge solutions and methodologies for HTB, THM, and more. | Markdown | [Repo](https://github.com/gnaixnaij/ctf-writeups) |
+| [**cybersec-roadmap**](https://github.com/gnaixnaij/cybersec-roadmap) | Structured learning path for SOC, Pentest, Malware Analysis. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/cybersec-roadmap?style=flat-square) | [Site](https://gnaixnaij.github.io/cybersec-roadmap) · [Repo](https://github.com/gnaixnaij/cybersec-roadmap) |
+| [**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) | 800+ pentesting commands across 43 sections. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/cyber-cheatsheet?style=flat-square) | [Site](https://gnaixnaij.github.io/cyber-cheatsheet) · [Repo](https://github.com/gnaixnaij/cyber-cheatsheet) |
+| [**malware-decode-lab**](https://github.com/gnaixnaij/malware-decode-lab) | Deobfuscation tutorials with real-style samples. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/malware-decode-lab?style=flat-square) | [Site](https://gnaixnaij.github.io/malware-decode-lab) · [Repo](https://github.com/gnaixnaij/malware-decode-lab) |
+| [**ctf-writeups**](https://github.com/gnaixnaij/ctf-writeups) | CTF solutions for HTB, THM, and more. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/ctf-writeups?style=flat-square) | [Repo](https://github.com/gnaixnaij/ctf-writeups) |
 
 ---
 
@@ -65,7 +66,7 @@
 
 ```text
 Languages   Python · Bash · JavaScript · HTML/CSS
-Platforms   Kali Linux · Windows · GitHub Pages · Render
+Platforms   Kali Linux · Windows · GitHub Pages · Render · Docker
 Tools       Nmap · Metasploit · Burp Suite · Wireshark · Hashcat · Impacket
 Frameworks  Flask · GitHub Actions · Docker
 Areas       Incident Response · Malware Analysis · Network Security · CTF
