@@ -78,7 +78,10 @@ Certs       CDSA · TryHackMe
 - **Email:** gnaixnaij@users.noreply.github.com
 - **TryHackMe:** [gnaixnaij](https://tryhackme.com/p/gnaixnaij)
 
-Contributions, issues, and feature requests are welcome. If you find any of my work useful, consider [sponsoring](https://ko-fi.com/gnaixnaij).
+Contributions, issues, and feature requests are welcome. If you find any of my work useful, consider sponsoring:
+
+<a href="https://github.com/sponsors/gnaixnaij"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+<a href="https://ko-fi.com/gnaixnaij"><img src="https://img.shields.io/badge/Ko--fi-Buy%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 
 ---
 
