@@ -34,9 +34,10 @@
 | Project | Description | Stars | Links |
 |---------|-------------|-------|-------|
 | [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) · [v1.0](https://github.com/gnaixnaij/deobfuscator/releases) |
+| [**deobfuscator-web**](https://github.com/gnaixnaij/deobfuscator-web) | Web UI — paste script, get IOCs + Sigma/YARA rules. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator-web?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Docker](https://github.com/gnaixnaij/deobfuscator-web) |
+| [**github-secret-scanner**](https://github.com/gnaixnaij/github-secret-scanner) | Scan any public repo for leaked secrets, tokens, and keys. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/github-secret-scanner?style=flat-square) | [Repo](https://github.com/gnaixnaij/github-secret-scanner) |
 | [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — system state collection, JSON output, watch mode. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/soc-triage?style=flat-square) | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.1](https://github.com/gnaixnaij/soc-triage/releases) |
-| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans — 4 modes, XML/Grepable output, extra args. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/nmap-automator?style=flat-square) | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
-| [**deobfuscator-web**](https://github.com/gnaixnaij/deobfuscator-web) | Web UI for deobfuscator — paste script, get IOCs + Sigma/YARA rules. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/deobfuscator-web?style=flat-square) | [App](https://deobfuscator-web.onrender.com) · [Docker](https://github.com/gnaixnaij/deobfuscator-web) |
+| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans — 4 modes, XML/Grepable output. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/nmap-automator?style=flat-square) | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
 
 ### Education & Reference
 
@@ -45,6 +46,7 @@
 | [**cybersec-roadmap**](https://github.com/gnaixnaij/cybersec-roadmap) | Structured learning path for SOC, Pentest, Malware Analysis. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/cybersec-roadmap?style=flat-square) | [Site](https://gnaixnaij.github.io/cybersec-roadmap) · [Repo](https://github.com/gnaixnaij/cybersec-roadmap) |
 | [**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) | 800+ pentesting commands across 43 sections. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/cyber-cheatsheet?style=flat-square) | [Site](https://gnaixnaij.github.io/cyber-cheatsheet) · [Repo](https://github.com/gnaixnaij/cyber-cheatsheet) |
 | [**malware-decode-lab**](https://github.com/gnaixnaij/malware-decode-lab) | Deobfuscation tutorials with real-style samples. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/malware-decode-lab?style=flat-square) | [Site](https://gnaixnaij.github.io/malware-decode-lab) · [Repo](https://github.com/gnaixnaij/malware-decode-lab) |
+| [**password-explainer**](https://github.com/gnaixnaij/password-explainer) | See how your password would be cracked with attack timelines. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/password-explainer?style=flat-square) | [Site](https://gnaixnaij.github.io/password-explainer) · [Repo](https://github.com/gnaixnaij/password-explainer) |
 | [**ctf-writeups**](https://github.com/gnaixnaij/ctf-writeups) | CTF solutions for HTB, THM, and more. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/ctf-writeups?style=flat-square) | [Repo](https://github.com/gnaixnaij/ctf-writeups) |
 
 ---
@@ -94,11 +96,13 @@ Contributions, issues, and feature requests are welcome. If you find any of my w
 
 | Date | Project | Event |
 |------|---------|-------|
+| 2026-06-30 | github-secret-scanner | 🚀 New tool: scan public repos for leaked secrets |
+| 2026-06-30 | password-explainer | 🚀 New tool: password strength with attack timelines |
+| 2026-06-30 | cybersec-roadmap | 🚀 New: free cybersecurity learning path |
 | 2026-06-30 | deobfuscator-web | 🐳 Docker support added |
 | 2026-06-30 | soc-triage | ⏱ Watch mode with change detection |
 | 2026-06-30 | nmap-automator | 📄 Multiple output formats |
 | 2026-06-30 | deobfuscator | 🧹 Ruff linting + badges |
-| 2026-06-29 | ctf-writeups | 📝 First writeup: HTB Analytics |
 | 2026-06-29 | all repos | 📦 v1.0.0 releases published |
 
 ---
