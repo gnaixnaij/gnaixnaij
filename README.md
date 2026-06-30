@@ -88,6 +88,21 @@ Contributions, issues, and feature requests are welcome. If you find any of my w
 
 ---
 
+---
+
+## Latest Updates
+
+| Date | Project | Event |
+|------|---------|-------|
+| 2026-06-30 | deobfuscator-web | 🐳 Docker support added |
+| 2026-06-30 | soc-triage | ⏱ Watch mode with change detection |
+| 2026-06-30 | nmap-automator | 📄 Multiple output formats |
+| 2026-06-30 | deobfuscator | 🧹 Ruff linting + badges |
+| 2026-06-29 | ctf-writeups | 📝 First writeup: HTB Analytics |
+| 2026-06-29 | all repos | 📦 v1.0.0 releases published |
+
+---
+
 <p align="center">
   <i>Available for freelance security work. Open to opportunities.</i>
   <br>
