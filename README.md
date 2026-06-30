@@ -1,87 +1,90 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge" />
-  <a href="https://ko-fi.com/gnaixnaij"><img src="https://img.shields.io/badge/Sponsor-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/gnaixnaij"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gnaixnaij&style=for-the-badge&color=blue" />
-</div>
-
-<h1 align="center">Hi, I'm gnaixnaij</h1>
-
 <p align="center">
-  <b>Security Research · CTF · Open Source</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge">
+  </picture>
+  <a href="https://tryhackme.com/p/gnaixnaij"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://ko-fi.com/gnaixnaij"><img src="https://img.shields.io/badge/-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=gnaixnaij&style=for-the-badge&color=blue&label=PROFILE+VIEWS">
 </p>
 
+<h1 align="center">gnaixnaij</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaixnaij&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaixnaij&layout=compact&theme=dark&hide_border=true" height="150" />
+  Building tools for the security community · Incident Response · Malware Analysis · CTF
 </p>
 
----
-
-## Projects
-
-### 🗺️ [cybersec-roadmap](https://github.com/gnaixnaij/cybersec-roadmap)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-Free structured learning path for SOC, Pentest, Malware Analysis, and Security Engineering.
-➡️ [Live Site](https://gnaixnaij.github.io/cybersec-roadmap/)
-
-### 🔍 [cyber-cheatsheet](https://github.com/gnaixnaij/cyber-cheatsheet)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-800+ pentesting commands across 43 sections. Dark/light theme, live search, keyboard shortcuts.
-➡️ [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet/)
-
-### 🧪 [deobfuscator](https://github.com/gnaixnaij/deobfuscator)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-8A2BE2)
-AI-powered deobfuscator for PowerShell, VBA, and JavaScript.
-➡️ [Web App](https://deobfuscator-web.onrender.com/)
-
-### 📘 [malware-decode-lab](https://github.com/gnaixnaij/malware-decode-lab)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown)
-Malware deobfuscation tutorials with real-style samples.
-➡️ [Live Site](https://gnaixnaij.github.io/malware-decode-lab/)
-
-### 🖧 [nmap-automator](https://github.com/gnaixnaij/nmap-automator)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-Automate common nmap scans with smart defaults — quick, service, full, and vulnerability scans.
-➡️ [GitHub](https://github.com/gnaixnaij/nmap-automator)
-
-### 🩺 [soc-triage](https://github.com/gnaixnaij/soc-triage)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-Quick host triage toolkit for incident response — collects system state for compromise assessment.
-➡️ [GitHub](https://github.com/gnaixnaij/soc-triage)
-
-### 📝 [ctf-writeups](https://github.com/gnaixnaij/ctf-writeups)
-![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown)
-CTF challenge solutions and methodologies — writeups for HTB, THM, and more.
-➡️ [GitHub](https://github.com/gnaixnaij/ctf-writeups)
-
----
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnaixnaij&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <a href="https://github.com/gnaixnaij/gnaixnaij/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/gnaixnaij/lint.yml?branch=main&label=profile&logo=github&style=flat-square"></a>
+  <a href="https://github.com/gnaixnaij/deobfuscator/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/deobfuscator/lint.yml?branch=main&label=deobfuscator&logo=python&style=flat-square"></a>
+  <a href="https://github.com/gnaixnaij/soc-triage/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/soc-triage/lint.yml?branch=main&label=soc-triage&logo=python&style=flat-square"></a>
+  <a href="https://github.com/gnaixnaij/nmap-automator/actions"><img src="https://img.shields.io/github/actions/workflow/status/gnaixnaij/nmap-automator/lint.yml?branch=main&label=nmap-automator&logo=python&style=flat-square"></a>
 </p>
 
 ---
 
-## Skills
+## Featured Projects
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, Bash, HTML/CSS, JavaScript |
-| **Tools** | Nmap, Metasploit, Burp Suite, Wireshark, Hashcat, Gobuster, Impacket |
-| **Platforms** | Kali Linux, Windows, GitHub Pages |
-| **Certifications** | CDSA (active), TryHackMe (active) |
+### Security Tools
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| [**deobfuscator**](https://github.com/gnaixnaij/deobfuscator) | AI-powered deobfuscation for PowerShell, VBA, and JavaScript. Static analysis + optional LLM. | Python · AI | [Web App](https://deobfuscator-web.onrender.com) · [Repo](https://github.com/gnaixnaij/deobfuscator) |
+| [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans with smart defaults — quick discovery, service detection, full audit, vuln scan. | Python | [Repo](https://github.com/gnaixnaij/nmap-automator) |
+| [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit for incident response. Collects system state for compromise assessment. | Python | [Repo](https://github.com/gnaixnaij/soc-triage) |
+
+### Education & Reference
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| [**cybersec-roadmap**](https://github.com/gnaixnaij/cybersec-roadmap) | Structured learning path for SOC, Pentest, Malware Analysis, and Security Engineering. | HTML · CSS | [Live Site](https://gnaixnaij.github.io/cybersec-roadmap) · [Repo](https://github.com/gnaixnaij/cybersec-roadmap) |
+| [**cyber-cheatsheet**](https://github.com/gnaixnaij/cyber-cheatsheet) | 800+ pentesting commands across 43 sections. Dark/light theme, live search, keyboard shortcuts. | HTML · JS | [Live Site](https://gnaixnaij.github.io/cyber-cheatsheet) · [Repo](https://github.com/gnaixnaij/cyber-cheatsheet) |
+| [**malware-decode-lab**](https://github.com/gnaixnaij/malware-decode-lab) | Step-by-step malware deobfuscation tutorials with real-style samples. | HTML | [Live Site](https://gnaixnaij.github.io/malware-decode-lab) · [Repo](https://github.com/gnaixnaij/malware-decode-lab) |
+| [**ctf-writeups**](https://github.com/gnaixnaij/ctf-writeups) | CTF challenge solutions and methodologies for HTB, THM, and more. | Markdown | [Repo](https://github.com/gnaixnaij/ctf-writeups) |
 
 ---
 
-## Let's Build Together
+## Activity
 
-I'm actively building security tools and resources for the community. If you have ideas, found a bug, or want to collaborate:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gnaixnaij&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaixnaij&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160">
+</p>
 
-- Open an **Issue** or **PR** on any of my repos
-- Reach out via [GitHub](https://github.com/gnaixnaij)
-- Sponsor my work on [Ko-fi](https://ko-fi.com/gnaixnaij)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnaixnaij&theme=react-dark&hide_border=true&radius=8&area=true&custom_title=Contribution%20Graph" width="95%">
+</p>
 
 ---
 
-*Available for freelance security work. Open to opportunities.*
+## Expertise
+
+```
+Languages   Python · Bash · JavaScript · HTML/CSS
+Platforms   Kali Linux · Windows · GitHub Pages · Render
+Tools       Nmap · Metasploit · Burp Suite · Wireshark · Hashcat · Impacket
+Frameworks  Flask · GitHub Actions · Docker
+Areas       Incident Response · Malware Analysis · Network Security · CTF
+Certs       CDSA · TryHackMe
+```
+
+---
+
+## Connect
+
+- **GitHub:** [@gnaixnaij](https://github.com/gnaixnaij)
+- **Email:** gnaixnaij@users.noreply.github.com
+- **TryHackMe:** [gnaixnaij](https://tryhackme.com/p/gnaixnaij)
+
+Contributions, issues, and feature requests are welcome. If you find any of my work useful, consider [sponsoring](https://ko-fi.com/gnaixnaij).
+
+---
+
+<p align="center">
+  <i>Available for freelance security work. Open to opportunities.</i>
+  <br>
+  <img src="https://img.shields.io/badge/maintained-yes-22c55e?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/gnaixnaij/gnaixnaij?style=flat-square&label=updated">
+</p>
