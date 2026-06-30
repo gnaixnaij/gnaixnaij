@@ -45,6 +45,16 @@ Malware deobfuscation tutorials with real-style samples.
 Automate common nmap scans with smart defaults — quick, service, full, and vulnerability scans.
 ➡️ [GitHub](https://github.com/gnaixnaij/nmap-automator)
 
+### 🩺 [soc-triage](https://github.com/gnaixnaij/soc-triage)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+Quick host triage toolkit for incident response — collects system state for compromise assessment.
+➡️ [GitHub](https://github.com/gnaixnaij/soc-triage)
+
+### 📝 [ctf-writeups](https://github.com/gnaixnaij/ctf-writeups)
+![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown)
+CTF challenge solutions and methodologies — writeups for HTB, THM, and more.
+➡️ [GitHub](https://github.com/gnaixnaij/ctf-writeups)
+
 ---
 
 <p align="center">
