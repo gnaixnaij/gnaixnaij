@@ -3,7 +3,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-Cybersecurity%20Researcher-22c55e?style=for-the-badge">
   </picture>
-  <a href="https://tryhackme.com/p/gnaixnaij"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://ko-fi.com/gnaixnaij"><img src="https://img.shields.io/badge/-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=gnaixnaij&style=for-the-badge&color=blue&label=PROFILE+VIEWS">
 </p>
@@ -73,7 +72,7 @@ Platforms   Kali Linux · Windows · GitHub Pages · Render · Docker
 Tools       Nmap · Metasploit · Burp Suite · Wireshark · Hashcat · Impacket
 Frameworks  Flask · GitHub Actions · Docker
 Areas       Incident Response · Malware Analysis · Network Security · CTF
-Certs       CDSA · TryHackMe
+Certs       CDSA
 ```
 
 ---
@@ -82,7 +81,7 @@ Certs       CDSA · TryHackMe
 
 - **GitHub:** [@gnaixnaij](https://github.com/gnaixnaij)
 - **Email:** gnaixnaij@users.noreply.github.com
-- **TryHackMe:** [gnaixnaij](https://tryhackme.com/p/gnaixnaij)
+
 
 Contributions, issues, and feature requests are welcome. If you find any of my work useful, consider sponsoring:
 
