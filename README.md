@@ -38,6 +38,8 @@
 | [**github-secret-scanner**](https://github.com/gnaixnaij/github-secret-scanner) | Scan any public repo for leaked secrets, tokens, and keys. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/github-secret-scanner?style=flat-square) | [Repo](https://github.com/gnaixnaij/github-secret-scanner) |
 | [**soc-triage**](https://github.com/gnaixnaij/soc-triage) | Host triage toolkit — system state collection, JSON output, watch mode. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/soc-triage?style=flat-square) | [Repo](https://github.com/gnaixnaij/soc-triage) · [v1.1](https://github.com/gnaixnaij/soc-triage/releases) |
 | [**nmap-automator**](https://github.com/gnaixnaij/nmap-automator) | Automate nmap scans — 4 modes, XML/Grepable output. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/nmap-automator?style=flat-square) | [Repo](https://github.com/gnaixnaij/nmap-automator) · [v1.1](https://github.com/gnaixnaij/nmap-automator/releases) |
+| [**subdomain-scanner**](https://github.com/gnaixnaij/subdomain-scanner) | DNS-based subdomain enumeration — brute force with built-in wordlist. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/subdomain-scanner?style=flat-square) | [Repo](https://github.com/gnaixnaij/subdomain-scanner) · [v1.0](https://github.com/gnaixnaij/subdomain-scanner/releases) |
+| [**authwatch**](https://github.com/gnaixnaij/authwatch) | Real-time auth log monitoring — detect brute force and failed logins. | ![Stars](https://img.shields.io/github/stars/gnaixnaij/authwatch?style=flat-square) | [Repo](https://github.com/gnaixnaij/authwatch) · [v1.0](https://github.com/gnaixnaij/authwatch/releases) |
 
 ### Education & Reference
 
@@ -104,6 +106,8 @@ Contributions, issues, and feature requests are welcome. If you find any of my w
 | 2026-06-30 | soc-triage | ⏱ Watch mode with change detection |
 | 2026-06-30 | nmap-automator | 📄 Multiple output formats |
 | 2026-06-30 | deobfuscator | 🧹 Ruff linting + badges |
+| 2026-06-30 | subdomain-scanner | 🌐 New: DNS subdomain enumeration tool |
+| 2026-06-30 | authwatch | 👁 New: Real-time auth log monitor |
 | 2026-06-29 | all repos | 📦 v1.0.0 releases published |
 
 ---
